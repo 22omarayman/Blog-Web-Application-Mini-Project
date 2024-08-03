@@ -7,3 +7,5 @@ npm i body-parser
 npm i 
 
 in the package.json: under the name add the attribute {type:module} to be able to import the dependecies
+
+run on localhost:3000
